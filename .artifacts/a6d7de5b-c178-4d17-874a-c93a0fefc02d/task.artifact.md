@@ -1,0 +1,6 @@
+- `[x]` Eliminar duplicados en libs.versions.toml
+- `[x]` Eliminar duplicados en build.gradle.kts (App)
+- `[x]` Corregir CharacterScreen.kt (paquetes e imports)
+- `[x]` Corregir CharacterListSection.kt (imports)
+- `[x]` Corregir CharacterCard.kt (imports)
+- `[x]` Sincronizar Gradle y verificar compilación
